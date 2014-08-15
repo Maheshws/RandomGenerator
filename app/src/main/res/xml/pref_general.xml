@@ -1,0 +1,7 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" android:title="Settings">
+
+    <PreferenceCategory android:title="Application Settings">
+        <Preference android:title="Delete all passwords" android:key="DeleteAllPass"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
